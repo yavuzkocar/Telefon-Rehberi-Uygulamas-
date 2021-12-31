@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\Telefon Rehberi Uygulaması.exe
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\Telefon Rehberi Uygulaması.deps.json
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\Telefon Rehberi Uygulaması.runtimeconfig.json
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\Telefon Rehberi Uygulaması.runtimeconfig.dev.json
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\Telefon Rehberi Uygulaması.dll
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\ref\Telefon Rehberi Uygulaması.dll
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\bin\Debug\net5.0\Telefon Rehberi Uygulaması.pdb
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.AssemblyInfo.cs
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.dll
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\ref\Telefon Rehberi Uygulaması.dll
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.pdb
+D:\yazılım\pratikler\Telefon Rehberi Uygulaması\obj\Debug\net5.0\Telefon Rehberi Uygulaması.genruntimeconfig.cache
